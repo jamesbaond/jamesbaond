@@ -2,6 +2,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 - 🌱 I’m currently learning ...
+  
 💫 About Me:
 I am currently pursuing a Master of Computer Applications (MCA) at VIT Bhopal University, where I am enhancing my skills in software development and advanced computing.<br><br>I hold a Bachelor’s degree in Computer Applications (BCA - Honours) from Gour Mahavidyalaya, Malda. My academic foundation was built at Akrurmoni Coronation Institution (H.S), Malda, where I completed both my Secondary and Higher Secondary education. During this time, I also successfully completed IT-ITeS Sector Skill Courses (Level 1 & Level 2).<br><br>With a strong interest in C, C++, and Data Structures & Algorithms, I am deeply passionate about problem-solving and exploring emerging technologies. I actively seek opportunities to develop new skills, contribute to innovative projects, and grow as a technology professional.<br>You can reach me out at-<br>debmalya2003karmakar@gmail.com
 
